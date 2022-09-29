@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mustafa 
 - 👀 I’m interested in Backend
-- 🌱 I’m game dev enthusiast
+- 🌱 I’m Tech enthusiast
 - -Working on my BackEnd Skills
 
 
